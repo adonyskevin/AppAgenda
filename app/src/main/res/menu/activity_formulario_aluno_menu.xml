@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/activity_formulario_aluno_menu_salvar"
+        app:showAsAction="always"
+        android:title="Salvar o aluno"
+        android:icon="@drawable/ic_action_salvar_aluno"
+        tools:ignore="HardcodedText" />
+</menu>
